@@ -32,8 +32,8 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>serial</itunes:type>
 
-    <pubDate>Tue, 03 May 2022 14:46:07 -0700</pubDate>
-    <lastBuildDate>Tue, 03 May 2022 14:46:07 -0700</lastBuildDate>
+    <pubDate>Tue, 03 May 2022 18:48:51 -0700</pubDate>
+    <lastBuildDate>Tue, 03 May 2022 18:48:51 -0700</lastBuildDate>
 
           <item>
         <title>Item 1</title>
@@ -48508,5 +48508,5 @@
         ]]></content:encoded>
       </item>
 
-  <channel>
+  </channel>
 </rss>
